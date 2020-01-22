@@ -1,0 +1,15 @@
+body{
+    background-image: url("octopath.png")
+}
+
+h3{
+    font-family: "Arial";
+    color: blue;
+    text-align: center;
+}
+
+p{
+    font-family: "Arial";
+    color: yellow;
+    text-align: center;
+}
